@@ -3,3 +3,41 @@ gtapp.c:1:10: fatal error: gtk/gtk.h: No such file or directory
       |          ^~~~~~~~~~~
 compilation terminated.
 make: *** [Makefile:13: run1] Error 1
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make[1]: Entering directory '/usr/src/linux-headers-6.5.0-28-generic'
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
+make -C /lib/modules/6.5.0-28-generic/build M=/home/basic/Documents/BITS_YEAR_3/BITS_3-2/OS/OS-PROJECT-2/OS18thapr modules
