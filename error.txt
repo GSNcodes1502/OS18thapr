@@ -1,0 +1,5 @@
+gtapp.c:1:10: fatal error: gtk/gtk.h: No such file or directory
+    1 | #include <gtk/gtk.h>
+      |          ^~~~~~~~~~~
+compilation terminated.
+make: *** [Makefile:13: run1] Error 1
