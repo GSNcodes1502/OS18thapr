@@ -24,20 +24,20 @@ static ssize_t virtual_keypad_read(struct file *file, char *buffer, size_t len, 
  
 // Write device method
 static ssize_t virtual_keypad_write(struct file *file, const char *buffer, size_t length, loff_t *offset) {
-    // Process the input from userspace here
+    
     char input[length + 1];  // Temporary buffer to store input
     if (copy_from_user(input, buffer, length) != 0) {
         return -EFAULT;
     }
     input[length] = '\0'; // Ensure null-terminated string
  
-    // Here, assume input[0] contains the button code or character
-    if (input[7] == '1') {  // Assuming '1' is the button for "copy"
+    
+    if (input[0] == '1') {  
         strcpy(message, "copy");  // Command for user space
         printk(KERN_INFO "copying message ");
     } else {
         // Handle other buttons or default case
-        snprintf(message, 255, "button %c pressed", input[7]);
+        snprintf(message, 255, "button %c pressed", input[0]);
     }
     size_of_message = strlen(message);
  

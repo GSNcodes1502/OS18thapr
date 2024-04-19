@@ -35,7 +35,6 @@ __used __section("__versions") = {
 	{ 0x92997ed8, "_printk" },
 	{ 0xcbd4898c, "fortify_panic" },
 	{ 0xd0da656b, "__stack_chk_fail" },
-	{ 0x87a21cb3, "__ubsan_handle_out_of_bounds" },
 	{ 0x5b8239ca, "__x86_return_thunk" },
 	{ 0xa916b694, "strnlen" },
 	{ 0x656e4a6e, "snprintf" },
@@ -47,4 +46,4 @@ __used __section("__versions") = {
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "A81B03CA9C804027DF0A6DA");
+MODULE_INFO(srcversion, "E6DC5C840BA4E4F23D8FF2E");
